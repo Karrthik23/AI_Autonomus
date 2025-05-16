@@ -1,0 +1,3 @@
+[console_scripts]
+webcam_publisher = vision_pkg.webcam_publisher:main
+yolo_deepsort_node = vision_pkg.yolo_deepsort_node:main
